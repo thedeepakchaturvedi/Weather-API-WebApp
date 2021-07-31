@@ -2,6 +2,8 @@
 
 A web app that provides you current weather conditions of locations around the globe. It uses weather API to fetch the data, also implemented error-handling in case the user enters a wrong location.
 
+### <a href="https://thedeepakchaturvedi-web-api.netlify.app/">https://thedeepakchaturvedi-web-api.netlify.app/</a>
+
 ## Tech Stack
 
 <ul>

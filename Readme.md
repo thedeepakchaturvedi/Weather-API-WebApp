@@ -16,9 +16,9 @@ A web app that provides you current weather conditions of locations around the g
 ## DEMO
 
 <br>
-<img src="web-api/public/ss1.png">
+<img src="./web-api/public/ss1.png">
 <br>
 <hr>
-<img src="web-api/public/ss2.png">
+<img src="./web-api/public/ss2.png">
 <br>
 <hr>
